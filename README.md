@@ -1,4 +1,4 @@
-# Тестовый проект
+# Frontend Clean Example
 
 ## Описание
 
